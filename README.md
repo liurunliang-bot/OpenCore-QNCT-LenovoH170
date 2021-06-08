@@ -1,0 +1,1 @@
+# OpenCore-QNCT-LenovoH170
