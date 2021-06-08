@@ -8,4 +8,4 @@ CPU:QNCT<br/>
 目前可用：<br/>
 QNCT<br/>
 UHD630<br/>
-Killer E2200网卡<br/>、
+Killer E2200网卡<br/>
