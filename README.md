@@ -9,3 +9,4 @@ CPU:QNCT<br/>
 QNCT<br/>
 UHD630<br/>
 Killer E2200网卡<br/>
+HDMI VGA DVI接口<br/>
